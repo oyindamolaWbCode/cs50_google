@@ -68,3 +68,10 @@ input[type="text"]{
     top: 17px; 
     right: 180px;
 }
+
+input[type="submit"]{
+    padding:12px 30px;
+    background-color:rgb(57, 55, 55) ;
+    border: 0px;
+    color:white;
+}
