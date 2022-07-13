@@ -103,7 +103,7 @@ hr{
 
 form{
     padding-left: 30px;
-    width:100%;
+
 }
 
 p{
@@ -112,7 +112,31 @@ p{
     font-weight: bolder;
 }
 
-#forAdvanced{
-    width:50%;
-    border:0px;
+.allone{
+    margin-right: 105px;
+}
+
+.all2{
+    margin-right: 38px;
+}
+
+.all3{
+    margin-right: 80px;
+}
+
+.all4{
+    margin-right: 68px;
+}
+
+#forAvanced{
+    padding:6px 120px;
+    border-radius:0px;
+ 
+}
+
+input[type="submit"].advancedCol{
+    background-color: blue;
+    padding:12px 30px;
+    color: white;
+    justify-content: flex-end;
 }
