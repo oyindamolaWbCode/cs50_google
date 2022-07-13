@@ -57,16 +57,16 @@ input[type="text"]{
     position: relative;
 }
 
-.infixed{
+.fixed3{
     position: relative;
-    top: 5px; 
-    left: -470px;
-}
+    top: 15px; 
+    left: -90px;
+} 
 
 .fixed2{
-    position: absolute;
-    top: 17px; 
-    right: 180px;
+    position: relative;
+    top: 15px; 
+    left: -40px;
 }
 
 input[type="submit"]{
